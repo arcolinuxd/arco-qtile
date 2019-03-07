@@ -1,4 +1,4 @@
-# ArcoLinuxD Qtile Desktop
+# ArcoLinuxD Qtile WM
 
 All credits to Nick Petrov for making this configuration.
 

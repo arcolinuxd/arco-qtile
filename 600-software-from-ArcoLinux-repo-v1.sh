@@ -79,7 +79,6 @@ sudo pacman -S arcolinux-variety-git --noconfirm --needed
 sudo pacman -S arcolinux-wallpapers-git --noconfirm --needed
 #sudo pacman -S arcolinux-xfce4-panel-profiles-git --noconfirm --needed
 sudo pacman -S arcolinux-xfce-thunar-git --noconfirm --needed
-#sudo pacman -S arcolinux-xmonad-git --noconfirm --needed
 #sudo pacman -S arcolinux-xmonad-polybar-git --noconfirm --needed
 #sudo pacman -S arcolinux-xmonad-xmobar-git --noconfirm --needed
 

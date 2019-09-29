@@ -25,8 +25,6 @@ sh AUR-DS/install-perl-linux-desktopfiles-v*.sh
 
 sh AUR-DS/install-python-pywal-v*.sh
 
-sh AUR-DS/install-spotifywm-git-v*.sh
-
 sh AUR-DS/install-urxvt-resize-font-git-v*.sh
 
 echo "################################################################"

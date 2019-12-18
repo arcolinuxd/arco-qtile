@@ -24,6 +24,8 @@ echo "Installing category Accessories"
 
 echo "Installing category Development"
 
+sudo pacman -S xfce4-terminal --noconfirm --needed
+
 echo "Installing category Education"
 
 echo "Installing category Games"

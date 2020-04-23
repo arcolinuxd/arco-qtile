@@ -56,17 +56,14 @@ thunar-archive-plugin
 thunar-volman
 xfce4-terminal
 arcolinux-xfce-git
-bspwm
+qtile
 sxhkd
-xdo
-sutils-git
-xtitle-git
-arcolinux-bspwm-git
-arcolinux-bspwm-dconf-git
-arcolinux-config-bspwm-git
+python-psutil
+xcb-util-cursor
+arcolinux-qtile-git
+arcolinux-qtile-dconf-git
+arcolinux-config-qtile-git
 awesome-terminal-fonts
-polybar
-arcolinux-polybar-git
 )
 
 count=0

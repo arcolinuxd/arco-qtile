@@ -58,6 +58,7 @@ xfce4-terminal
 arcolinux-xfce-git
 qtile
 sxhkd
+dmenu
 python-psutil
 xcb-util-cursor
 arcolinux-qtile-git

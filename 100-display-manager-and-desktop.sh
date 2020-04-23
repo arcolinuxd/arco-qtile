@@ -66,6 +66,7 @@ arcolinux-qtile-git
 arcolinux-qtile-dconf-git
 arcolinux-config-qtile-git
 awesome-terminal-fonts
+arcolinux-logout-git
 )
 
 count=0

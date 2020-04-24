@@ -60,6 +60,7 @@ arcolinux-local-xfce4-git
 qtile
 sxhkd
 dmenu
+feh
 python-psutil
 xcb-util-cursor
 arcolinux-qtile-git

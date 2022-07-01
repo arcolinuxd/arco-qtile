@@ -63,7 +63,7 @@ python-psutil
 xcb-util-cursor
 arcolinux-qtile-git
 arcolinux-qtile-dconf-git
-arcolinux-config-qtile-git
+arcolinux-config-all-desktops-git
 awesome-terminal-fonts
 arcolinux-logout-git
 python-setuptools

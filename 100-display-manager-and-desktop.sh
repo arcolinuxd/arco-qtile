@@ -62,7 +62,7 @@ feh
 python-psutil
 xcb-util-cursor
 arcolinux-qtile-git
-arcolinux-qtile-dconf-git
+arcolinux-dconf-all-desktops-git
 arcolinux-config-all-desktops-git
 awesome-terminal-fonts
 arcolinux-logout-git

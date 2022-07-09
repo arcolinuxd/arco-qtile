@@ -65,7 +65,7 @@ arcolinux-qtile-git
 arcolinux-dconf-all-desktops-git
 arcolinux-config-all-desktops-git
 awesome-terminal-fonts
-arcolinux-logout-git
+archlinux-logout-git
 python-setuptools
 )
 
